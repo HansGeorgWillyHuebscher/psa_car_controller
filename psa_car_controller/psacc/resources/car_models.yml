@@ -837,3 +837,9 @@
   fuel_capacity: 44
   abrp_name:
   reg: VXKUPHNEKR 
+- !CarModel
+  name: Berlingo XL 2024 facelift
+  battery_power: 0
+  fuel_capacity: 44
+  abrp_name: citroen:berlingoXL
+  reg: VR7EBYHZ6R 
